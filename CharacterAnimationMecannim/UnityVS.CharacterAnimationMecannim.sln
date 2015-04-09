@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CharacterAnimationMecannim.CSharp.Editor", "UnityVS.CharacterAnimationMecannim.CSharp.Editor.csproj", "{58CD0779-4EC6-C665-28CB-E85FCBDBCF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CharacterAnimationMecannim.CSharp.Plugins", "UnityVS.CharacterAnimationMecannim.CSharp.Plugins.csproj", "{089CD364-4F6C-0693-861E-9082DDF2A974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CharacterAnimationMecannim.CSharp", "UnityVS.CharacterAnimationMecannim.CSharp.csproj", "{7BF01A1E-7A9E-45BF-247F-91331CE94C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CD0779-4EC6-C665-28CB-E85FCBDBCF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CD0779-4EC6-C665-28CB-E85FCBDBCF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CD0779-4EC6-C665-28CB-E85FCBDBCF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CD0779-4EC6-C665-28CB-E85FCBDBCF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089CD364-4F6C-0693-861E-9082DDF2A974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089CD364-4F6C-0693-861E-9082DDF2A974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089CD364-4F6C-0693-861E-9082DDF2A974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089CD364-4F6C-0693-861E-9082DDF2A974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF01A1E-7A9E-45BF-247F-91331CE94C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF01A1E-7A9E-45BF-247F-91331CE94C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF01A1E-7A9E-45BF-247F-91331CE94C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF01A1E-7A9E-45BF-247F-91331CE94C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
