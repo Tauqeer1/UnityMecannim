@@ -1,0 +1,4 @@
+Assets/SoldiersPack/ArmyOne/Army 01.fbm/Body_Suit_Army_PocketFront_PocketFrontColor.tga
+Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+Assets/_CharacterSystem/CSE_Environment/CSE_Sky/CSE_Skybox/CSE_Skybox_down.tif
+Assets/_CharacterSystem/Tutorial_Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_front.tif
